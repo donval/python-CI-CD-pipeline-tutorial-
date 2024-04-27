@@ -1,0 +1,17 @@
+export DATASET_NAME=
+
+export TABLE_NAME=
+
+export TOPIC_NAME=
+
+export JOB_NAME=
+
+export REGION=
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Streaming%20Analytics%20into%20BigQuery%20Challenge%20Lab/quicklabarc106.sh
+
+sudo chmod +x quicklabarc106.sh
+
+./quicklabarc106.sh
+
