@@ -1,0 +1,4 @@
+SQL QUERY CODE:
+
+SELECT *  EXCEPT(zip, latitude, ip_address, longitude)
+FROM `YOUR_PROJECT_ID.online_shop.user_online_sessions`
